@@ -11,8 +11,8 @@ namespace ConsoleApplication6
         static void Main(string[] args)
         {
             int a = 5;
-            int b = 20;
-            int c = a % b;
+            int b = 14;
+            int c = b % a;
 
             Console.WriteLine(c);
           
